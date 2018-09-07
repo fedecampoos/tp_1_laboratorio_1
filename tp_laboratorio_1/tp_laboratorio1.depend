@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1536188865 source:c:\users\pc\desktop\tp_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1536188865 c:\users\pc\desktop\tp_laboratorio1\libreria.h
+
+1536271209 source:c:\users\pc\desktop\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1536271192 c:\users\pc\desktop\tp_laboratorio_1\libreria.h
+
